@@ -41,7 +41,6 @@ def ensure_folder_exists(folder, new=False):
             print(f"Folder '{folder.path}' created.")
             print(f"{folder.purpose}")
     elif new:
-        print(f"Folder '{folder.path}' already exists.")
         print(f" - {folder.purpose}")
 
 def ensure_folders_exist(project_name, new=False):
