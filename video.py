@@ -130,7 +130,7 @@ def create_video_with_images_and_audio(
             duration = (AudioSegment.from_file(audio_file).duration_seconds)
 
         # Create the image clip
-        image_clip = ImageSequenceClip([image_paths[i]], durations=[duration])
+        image_clip = ImageSequenceClip([image_paths[i % len(image_paths)]], durations=[duration])
 
         # Create the track name overlay
         track_name = ' '.join(audio_file.split('/')[-1].split('.')[0].split('_'))

@@ -127,6 +127,144 @@ cyberpunk_titles = [
     "System Shock", "Metal God Complex", "Malware Empire", "Cybernetic Holocaust", "Hyperdrive Havoc"
 ]
 
+new_wave_titles = [
+    "Electric Dreams in Neon",
+    "Synthetic Hearts",
+    "Crying on the Dance Floor",
+    "Neon Nights in Tokyo",
+    "Echoes of a Distant Star",
+    "Fade into the Static",
+    "Love in a Binary Code",
+    "Shadows on the Disco Ball",
+    "The Last Transmission",
+    "Plastic Emotions",
+    "Running Through the Circuits",
+    "City Lights and Broken Hearts",
+    "Digital Love Affair",
+    "The Sound of Tomorrow",
+    "Falling Through the Grid",
+    "Glitter and Glass",
+    "Echoes in the Void",
+    "Neon Rain",
+    "Electric Tears",
+    "Synthetic Serenade",
+    "Lost in the Synthwave",
+    "Dreams of a Hologram",
+    "The Edge of Forever",
+    "Crystal Cities",
+    "Heartbeat in the Static",
+    "Dancing with Robots",
+    "The Last Synth",
+    "Fading into the Neon",
+    "Electric Lullaby",
+    "Shadows in the Arcade",
+    "Love in the Machine Age",
+    "The Glow of the Night",
+    "Echoes of the Future",
+    "Neon Dreams",
+    "Synthetic Sunset",
+    "The Pulse of the City",
+    "Falling Stars and Neon Bars",
+    "Electric Romance",
+    "The Sound of Electric Rain",
+    "Crying in the Circuitry",
+    "Glow in the Dark",
+    "The Last Dance of the Androids",
+    "Neon Love Letters",
+    "Synthetic Memories",
+    "Echoes in the Wires",
+    "The Edge of the Grid",
+    "Electric Skyline",
+    "Shadows in the Neon Light",
+    "Love in the Age of Machines",
+    "The Glow of the Disco Ball",
+    "Fading into the Static",
+    "Neon Waves",
+    "Synthetic Heartbeat",
+    "The Sound of the Future",
+    "Electric Dreams",
+    "Crying in the Neon Rain",
+    "Glitter in the Dark",
+    "The Last Transmission of Love",
+    "Neon Nights",
+    "Synthetic Tears",
+    "Echoes of the Night",
+    "The Edge of the City",
+    "Electric Love",
+    "Shadows in the Glow",
+    "Love in the Neon Light",
+    "The Glow of the Night Sky",
+    "Fading into the Grid",
+    "Neon Echoes",
+    "Synthetic Dreams",
+    "The Sound of the Static",
+    "Electric Hearts",
+    "Crying in the Electric Rain",
+    "Glitter and Neon",
+    "The Last Dance of the Night",
+    "Neon Love",
+    "Synthetic Memories",
+    "Echoes in the Neon Light",
+    "The Edge of the Future",
+    "Electric Nights",
+    "Shadows in the City Lights",
+    "Love in the Glow",
+    "The Glow of the Neon Sky",
+    "Fading into the Electric Night",
+    "Neon Waves of Love",
+    "Synthetic Heartbeats",
+    "The Sound of the Neon Rain",
+    "Electric Dreams of Tomorrow",
+    "Crying in the Glow",
+    "Glitter in the Neon Light",
+    "The Last Transmission of the Night",
+    "Neon Nights and Electric Dreams",
+    "Synthetic Tears in the Rain",
+    "Echoes of the Neon Future",
+    "The Edge of the Neon City",
+    "Electric Love in the Night",
+    "Shadows in the Electric Glow",
+    "Love in the Neon Sky",
+    "The Glow of the Electric Night",
+    "Fading into the Neon Grid",
+    "Neon Echoes of Love",
+    "Synthetic Dreams of Tomorrow",
+    "The Sound of the Electric Rain"
+]
+
+sci_fi_titles = [
+    "Nebula Drift", "Quantum Pulse", "Stellar Echoes", "Dark Matter Dreams", "Synthetic Winds",
+    "Virtual Horizons", "Cosmic Horizon", "Echoes of Eternity", "Temporal Waves", "Ionized Nightfall",
+    "Subspace Static", "Gravity Collapse", "Neon Galaxy", "Starlight Pulse", "Transdimensional Flow",
+    "Chrono Surge", "Moonlit Transmission", "Solar Nexus", "Fractal Journey", "Solarflare Vibration",
+    "Echo of the Void", "Phantom Frequencies", "Futuristic Shadows", "Digital Awakening", "Solar Winds",
+    "Alien Signals", "Atmospheric Rift", "Synthetic Dawn", "Pulse of the Unknown", "Digital Wanderer",
+    "Zero Gravity Rhythm", "Uncharted Territories", "Starborn Memory", "Lightyear Drift", "Warped Reality",
+    "Binary Stream", "Galactic Perception", "Future Lost", "Astral Resonance", "Transcendent Frequency",
+    "Celestial Circuit", "Quantum Distortion", "Fractured Space", "Lunar Whispers", "Cybernetic Echo",
+    "Event Horizon Pulse", "Artificial Sky", "Holographic Dreams", "Virtual Mirage", "Neon Vortex",
+    "Exoplanet Drift", "Chrono Flux", "Pulse from the Void", "Vastness Unveiled", "Dark Echo Fields",
+    "Parallel Realms", "Lost in Transmission", "Glacial Expanse", "Stellar Rebirth", "Antimatter Cascade",
+    "Echo from the Stars", "Time Dilation", "Orbiting Silence", "Etheric Visions", "Cosmic Tides",
+    "Artificial Gravity", "Synaptic Waves", "Lunar Frequencies", "Endless Orbit", "Fading Starborn",
+    "Solar Rift", "Fractal Dimensions", "Void Pulses", "Subatomic Vibration", "Astral Crossing",
+    "Circuitry Dreams", "Futurescape Pulse", "Starborn Enigma", "Echoes of the Abyss", "Metaverse Journey",
+    "Digital Eclipse", "Quantum Splice", "Nebula Resonance", "Voidwalkers", "Quantum Atmosphere",
+    "Cosmic Drift", "Coded Stars", "Vibration Nexus", "Distant Stars", "Synthetic Twilight",
+    "Translucent Time", "Shifting Horizons", "Void Loop", "Neutronium Pulse", "Chasing Lightwaves",
+    "Temporal Shift", "Space Beyond", "Interdimensional Soundwaves", "Hologram Pulse", "Neon Shroud",
+    "Future Echoes", "Stellar Embrace", "Celestial Dissonance", "Chrono Wanderer", "Digital Mirage",
+    "Starlight Fracture", "Voidbound Frequencies", "Particle Storm", "Beyond the Event Horizon", "Alien Pulse",
+    "Subatomic Drift", "Galactic Dreamscape", "Waves of Infinity", "Time Synth", "Neural Pathways",
+    "Hypernova Shimmer", "Galactic Pulsewave", "Digital Ascension", "Nebular Twilight", "Astral Flux",
+    "Orbiting the Unknown", "Neon Skyline", "Gravity Shifts", "Wavelength of the Void", "Cosmic Intrusion",
+    "Frequency Rain", "Virtual Skies", "Quantum Ripples", "Neon Eclipse", "Stellar Pulsewave",
+    "Virtual Echo", "Galactic Network", "Echoes of the Voidwalker", "Dark Nebula Pulse", "Solar Wind Symphony",
+    "Futuristic Drift", "Outer Rim Tones", "Astral Signal", "Digital Storm", "Gravity Well",
+    "Quantum Drift", "Solar Phantom", "Sound of the Universe", "Eclipse Frequency", "Artificial Skies",
+    "Distant Light", "Virtual Pulse", "Chrono Echoes", "Parallel Pulse", "Singularity Drift"
+]
+
 
 def pick_and_remove_song(song_list):
     """
@@ -152,6 +290,14 @@ def random_shamisen_lofi_title():
 
 def random_cyberpunk_title():
     song_list = cyberpunk_titles
+    return pick_and_remove_song(song_list)
+
+def random_new_wave_title():
+    song_list = new_wave_titles
+    return pick_and_remove_song(song_list)
+
+def random_sci_fi_title():
+    song_list = sci_fi_titles
     return pick_and_remove_song(song_list)
 
 def get_files_in_directory(directory_path):
@@ -184,4 +330,4 @@ if __name__ == "__main__":
     folder_path = f'./projects/{project_name}/audio/'
     files_to_rename = get_files_in_directory(folder_path)
     for file in files_to_rename:
-        rename_file(folder_path, file, random_cyberpunk_title()+'.mp3')
+        rename_file(folder_path, file, random_sci_fi_title()+'.mp3')
